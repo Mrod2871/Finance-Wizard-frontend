@@ -3,7 +3,7 @@ import Sidebar from "../components/Sidebar"
 
 function Dashboard() {
   return (
-    <div>Dashboard <Sidebar /> </div>
+    <div>Dashboard <Nav /> <Sidebar /> </div>
 
   )
 }
