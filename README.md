@@ -86,7 +86,7 @@ Deployed with: Netlify - [Finance Wizard](https://financewizard.netlify.app)
 
 <!--URLs-->
 [linkedin-urlm]: https://www.linkedin.com/in/mario2603/
-[github-url]: https://github.com/Mrod2871/Finance-Wizard-frontend
+[github-url]: [https://github.com/Mrod2871/Finance-Wizard-frontend]
 [trello-url]: [https://trello.com/b/VZt4Mqg0/finance-wizard]
 [empty-url]: https
 <!-- Credits/Resources -->
