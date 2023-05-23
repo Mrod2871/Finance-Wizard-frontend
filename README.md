@@ -45,9 +45,9 @@ Deployed with: Netlify - [Finance Wizard](https://financewizard.netlify.app)
 ---
 
 ## **Screenshots**
-<img src='https://media.git.generalassemb.ly/user/47982/files/3572f971-56a2-47e5-b36d-a691ffcaf8fd' />
-<img src='https://media.git.generalassemb.ly/user/47982/files/40a6b35d-7737-4e00-b4c7-f1ef42560943' />
-<img src='https://media.git.generalassemb.ly/user/47982/files/3c833429-f5e6-4d5a-bba6-2a8a675ebb49' />
+<img src='https://github.com/Mrod2871/Finance-Wizard-frontend/assets/126505925/2a442335-477b-44fa-8c88-10d81b5343cc' />
+<img src='https://github.com/Mrod2871/Finance-Wizard-frontend/assets/126505925/f848c41d-a23f-4347-ba68-3d7c7c1d3f14' />
+<img src='https://github.com/Mrod2871/Finance-Wizard-frontend/assets/126505925/3ce7f42a-f076-4139-a6a6-1dccb141a5d9' />
 
 
 <div align="right">
