@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+
+    ul {
+        list-style: none;
+        display: flex;
+        align-items: center;
+        li {
+            margin-right: 1.2em;
+            cursor: pointer;
+            font-weight: 700;
+            &:hover {
+                text-decoration: underline;
+            }
+            img{
+                height: 4.68rem;
+                border-radius: 50%;
+            }
+        }
+    }
+}

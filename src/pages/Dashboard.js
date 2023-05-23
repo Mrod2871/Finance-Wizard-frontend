@@ -1,10 +1,13 @@
 import React from 'react'
 import Sidebar from "../components/Sidebar"
+import Nav from '../components/Nav'
 
 function Dashboard() {
   return (
-    <div>Dashboard <Nav /> <Sidebar /> </div>
-
+    <div className='Dashboard'>
+      <Nav /> 
+      <Sidebar /> 
+    </div>
   )
 }
 
