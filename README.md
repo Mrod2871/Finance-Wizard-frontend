@@ -35,7 +35,7 @@ Deployed with: Netlify - [Finance Wizard](https://financewizard.netlify.app)
 
 [![Dotenv][dotenv-img]][empty-url]
 ### **Other resources** 
-[![Trello][trello-img]][trello-url]
+[![Trello][trello-img]][trello-url] React, Firebase, Netlify and Render
 [![github-img]][empty-url]
 
 <div align="right">
