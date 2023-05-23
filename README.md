@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+<p align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# <span style="font-family: andale mono, monospace">**Finance Wizard** <span>
 
-In the project directory, you can run:
+## **Description**    
+### Finance Wizard is the new ultimate Finance tracking app. Add all incomes and expenses you can possibly have.  <br>
+Finance Wizard helps you: 
+- Increase your budget
+- Gain menal clarity
+- Track expenses 
+- Provides a sense of accomplishment
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<details>
+<summary>Table of contents</summary>
+<li><a href="#about-the-project">About the Project</a></li>
+<li><a href="#screenshots">Screenshots</a></li>
+<li><a href="#getting-started">Getting Started</a></li>
+<li><a href="#future-enhancements">Future Enhancements</a></li>
+<li><a href="#stay-in-touch">Stay in touch</a></li>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## **Getting Started**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Deployed with: Netlify - [Finance Wizard](https://financewizard.netlify.app)
 
-### `npm run build`
+---
+## **About the project**
+### **Built with**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Dotenv][dotenv-img]][empty-url] React, Firebase, Netlify and Render
+### **Other resources** 
+[![Trello][trello-img]][trello-url]
+[![github-img]][empty-url]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div align="right">
+    <a href="#top">🔝</a>
+</div>
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## **Screenshots**
+<img src='https://github.com/Mrod2871/Finance-Wizard-frontend/assets/126505925/2a442335-477b-44fa-8c88-10d81b5343cc' />
+<img src='https://github.com/Mrod2871/Finance-Wizard-frontend/assets/126505925/f848c41d-a23f-4347-ba68-3d7c7c1d3f14' />
+<img src='https://github.com/Mrod2871/Finance-Wizard-frontend/assets/126505925/3ce7f42a-f076-4139-a6a6-1dccb141a5d9' />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<div align="right">
+    <a href="#top">🔝</a>
+</div>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## **Future Enhancements**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Ability to have a user only see their expenses and incomes
+- Add a Networth page
+- Revamp UI
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div align="right">
+    <a href="#top">🔝</a>
+</div>
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Stay in touch
+[![LinkedIn][linkedin-img]][linkedin-urlm] Mario Rodriguez<br>
+[![GitHub][github-img]][github-url]<br>
 
-### Analyzing the Bundle Size
+<div align="right">
+    <a href="#top">🔝</a>
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+<!--links and images-->
+[dotenv-img]: https://img.shields.io/badge/DOTENV-FFFF00?style=for-the-badge&logo=dotenv&logoColor=white
+[github-img]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[trello-img]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+[dotenv-img]: https://img.shields.io/badge/dotenv-%5Ev16.0.3-orange
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!--URLs-->
+[linkedin-urlm]: https://www.linkedin.com/in/mario2603/
+[github-url]: https://github.com/Mrod2871/Finance-Wizard-frontend
+[trello-url]: https://trello.com/b/VZt4Mqg0/finance-wizard
+[empty-url]: https
+<!-- Credits/Resources -->
+[photo]: https://unsplash.com/photos/8cqoKu5ycuU
+[photo]: https://unsplash.com/photos/XZUqPMLHvzw
+[photo]: https://unsplash.com/photos/2cggmyVJ4v0
+[photo]: https://icons8.com/icon/HwIEsEmuCUlw/sandwich
+[photo]: https://icons8.com/icon/N8twDYwFI-QP/leafy-green
