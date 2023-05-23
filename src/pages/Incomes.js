@@ -25,10 +25,12 @@ function Incomes(props) {
   // loaded function
   const loaded = () => {
     return props.Income.map((Income) => (
-      <div key={Income._id} className="income">
-        <Link to={`/income/${Income._id}`}><h1>{Income.name}</h1>
-        </Link>
-        <h3>{Income.amount}</h3>
+      <div className='format'>
+        <div key={Income._id} className="income">
+          <Link to={`/income/${Income._id}`}><h1>{Income.name}</h1>
+          </Link>
+          <h3>{Income.amount}</h3>
+        </div>
       </div>
     ));
   };
