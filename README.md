@@ -58,8 +58,9 @@ Deployed with: Netlify - [Finance Wizard](https://financewizard.netlify.app)
 
 ## **Future Enhancements**
 
-- Ability to see nutritional facts
-- Ability to add an image
+- Ability to have a user only see their expenses and incomes
+- Add a Networth page
+- Revamp UI
 
 <div align="right">
     <a href="#top">🔝</a>
