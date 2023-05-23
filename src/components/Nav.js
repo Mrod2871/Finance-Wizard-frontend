@@ -23,10 +23,10 @@ function Nav() {
       <Link to="/">
         <div>Dashboard</div>
       </Link>
-      <Link to="/incomes">
+      <Link to="/income">
         <div>Incomes</div>
       </Link>
-      <Link to="/expenses">
+      <Link to="/expense">
         <div>Expenses</div>
       </Link>
       <ul>
