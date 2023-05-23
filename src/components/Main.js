@@ -47,7 +47,7 @@ const Main = (props) => {
         getIncomes()
     }
 
-    useEffect( () => getIncomes, [])
+    useEffect( () => getIncomes(), [])
     return (
         
         <main>

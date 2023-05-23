@@ -45,7 +45,7 @@ const Main2 = (props) => {
         getExpenses()
     }
 
-    useEffect( () => getExpenses, [])
+    useEffect( () => getExpenses(), [])
     return (
         
         <main>
