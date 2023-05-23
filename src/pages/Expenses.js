@@ -24,10 +24,10 @@ function Expenses(props) {
 
   // loaded function
   const loaded = () => {
-    return props.expenses.map((expense) => (
+    return props.Expense.map((expense) => (
       <div key={expense._id} className="expense">
-        <Link to={`/expenses/${expense._id}`}><h1>{expense.name}</h1></Link>
-        <h3>{expense.title}</h3>
+        <Link to={`/expense/${expense._id}`}><h1>{expense.name}</h1></Link>
+        <h3>{expense.amount}</h3>
       </div>
     ));
   };
@@ -55,7 +55,7 @@ function Expenses(props) {
         />
         <input type="submit" value="Create Expense" />
       </form>
-      {props.expenses ? loaded() : loading()}
+      {props.Expense ? loaded() : loading()}
     </section>
   )
 }

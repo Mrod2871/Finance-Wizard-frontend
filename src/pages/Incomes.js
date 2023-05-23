@@ -24,15 +24,15 @@ function Incomes(props) {
 
   // loaded function
   const loaded = () => {
-    return props.incomes.map((income) => (
-      <div key={income._id} className="income">
-        <Link to={`/incomes/${income._id}`}><h1>{income.name}</h1>
+    return props.Income.map((Income) => (
+      <div key={Income._id} className="income">
+        <Link to={`/income/${Income._id}`}><h1>{Income.name}</h1>
         </Link>
-        <h3>{income.title}</h3>
+        <h3>{Income.amount}</h3>
       </div>
     ));
   };
-
+console.log(props.Income)
   const loading = () => {
     return <h1>Loading...</h1>;
   };
@@ -56,7 +56,7 @@ function Incomes(props) {
         />
         <input type="submit" value="Create Income" />
       </form>
-      {props.incomes ? loaded() : loading()}
+      {props.Income ? loaded() : loading()}
     </section>
   )
 }

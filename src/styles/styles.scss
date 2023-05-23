@@ -1,4 +1,4 @@
-nav {
+.nav {
     display: flex;
     justify-content: space-between;
 
@@ -19,4 +19,36 @@ nav {
             }
         }
     }
+}
+*{
+    background-color: aqua;
+}
+
+$maincolor: black;
+$contrastcolor: white;
+
+@mixin black-test-white-bg {
+    color: $contrastcolor;
+    background-color: $maincolor;
+  }
+
+@mixin white-text-black-bg {
+    color: $maincolor;
+    background-color: $contrastcolor;
+}
+
+section,
+div {
+  form {
+    input {
+      @include white-text-black-bg;
+      padding: 10px;
+      font-size: 1.1em;
+      margin: 10px;
+
+      &[type="submit"]:hover {
+        @include black-test-white-bg;
+      }
+    }
+  }
 }

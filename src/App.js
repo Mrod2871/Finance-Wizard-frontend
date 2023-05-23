@@ -1,8 +1,9 @@
 import { useState, useEffect } from 'react';
 import { auth } from './services/firebase';
 import './App.css';
-import Dashboard from './pages/Dashboard';
+import Nav from './components/Nav'
 import Main from './components/Main'
+import Main2 from './components/Main2';
 
 function App() {
   const [user, setUser] = useState(null);
@@ -17,8 +18,10 @@ function App() {
 
   return (
     <div className="App">
-      <Dashboard user={user} />
-      {/* <Main user={user} /> */}
+      <Nav user={user} />
+      <Main user={user} />
+      <Main2 user={user} />
+      <h1>Welcome to the Marvelous Finance Wizard</h1>
     </div>
   );
 }
