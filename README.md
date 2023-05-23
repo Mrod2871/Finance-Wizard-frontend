@@ -1,8 +1,7 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/126505925/235982120-54ea5e55-f40e-49bf-a759-61ddeffaa855.png" />
-</p>
 
-# <span style="font-family: andale mono, monospace">**Sandwich.io** <span>
+
+# <span style="font-family: andale mono, monospace">**Finance Wizard** <span>
 
 ## **Description**    
 ### Finance Wizard is the new ultimate Finance tracking app. Add all incomes and expenses you can possibly have.  <br>
